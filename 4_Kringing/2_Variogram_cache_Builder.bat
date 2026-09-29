@@ -1,1 +1,0 @@
-conda run -n mikehydro python variogram_cache_gui_app.py
