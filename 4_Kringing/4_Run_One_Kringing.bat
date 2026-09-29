@@ -1,0 +1,1 @@
+conda run -n mikehydro python 2_kriging_gui_app.py

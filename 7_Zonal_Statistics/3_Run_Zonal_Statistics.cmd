@@ -1,0 +1,1 @@
+conda run -n mikehydro python zonal_statistic.py

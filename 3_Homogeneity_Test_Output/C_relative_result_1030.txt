@@ -1,0 +1,7 @@
+Relative homogeneity test for station 1030
+Neighbours: 1038, 1029
+Correlations: 1038=0.63, 1029=0.53
+
+Absolute SNHT: break 1994, p = 0.1131
+Relative SNHT: break 2013, p = 0.0008
+Verdict: Relative break found in a different year -> inspect station history
